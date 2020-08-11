@@ -7,10 +7,6 @@
 
 Preprocess star image, extract centroids and brightness of stars and plot them with __C++__
 
-## Application
-
-* [zhongyuchen](https://github.com/zhongyuchen) / [Skymap](https://github.com/zhongyuchen/Skymap)
-
 ## Prerequisites (macOS)
 
 * Install [![Homebrew version](https://img.shields.io/badge/Homebrew-1.8.1-8da0cb.svg)](https://brew.sh)
